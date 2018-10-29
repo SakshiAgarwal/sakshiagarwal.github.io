@@ -1,10 +1,9 @@
-
 ---
 layout: page
 title: Ticket Classification
 menu: Ticket Classification
 parent: works.md
-weight: 0
+weight: 3
 ---
 
 I worked on building a ticket classification module during my internship at [Tata Consultancy Service (TCS) Innovation Labs, India](https://www.tcs.com/research-and-innovation). This module was to be used internally by the company to automate the process of assigning a particular complaint ticket as a software, hardware or e-mail issue. This module was to be added to a pre-existing online interaction system.   
