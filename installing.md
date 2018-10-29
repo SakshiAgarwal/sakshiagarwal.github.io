@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Installing MaterialDocs
-menu: Installing
+title: Extra Curricular
+menu: Extras
 weight: 3
 ---
 
+Add your hobbies
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
