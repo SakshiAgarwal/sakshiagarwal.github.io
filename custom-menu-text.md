@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Custom Text for Menu Items
-menu: Custom Menu Text
-parent: features.md
+title: Odium Revelio!
+menu: Odium Revelio!
+parent: works.md
 weight: 0
 ---
 
-This page's menu item has different text from the page title.  That's because it has the ```menu``` value set in the YAML Front Matter like this:
+Motivated by the recent spread of toxicity, hatred and abuse on social media, we are inspired to detect these subtle or ambiguous hateful comments and flag them. Odium Revelio! is an ongoing work at [Conduent Labs]() designed to detect hate speech in online conversations of an article. This model not only focuses on flagging overt hate speech comments but also subtle ones. For example : 
 
-```yaml
-menu: Custom Menu Text
-```
+<img src="https://sakshiagarwal.github.io/images/subtle-hate-speeches.PNG" alt="">
 
-Pages can also be [hidden from the menu](/jekyll-materialdocs/hidden-page).
+As a researcher on the text analytics team, I am exploring and implementing state-of-the-art models in the application of subtle hate speech detection. We focus majorly on feature engineering aggregating the title, previous comments and external information. Scraping of fox-news 'stupid' comments to enrich our dataset.
