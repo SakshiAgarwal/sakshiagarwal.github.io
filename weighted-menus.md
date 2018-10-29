@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Weighted Menu Items
-parent: features.md
+parent: works.md
 weight: 3
 ---
 
