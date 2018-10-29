@@ -7,6 +7,10 @@ weight: 3
 
 A brief collection of my travel stories and dance sessions!
 
+- Treks 
+- Managing & Organizing Events
+- photography
+- 
 
 At IIT-KGP, during Diwali Festival
 <img src="https://sakshiagarwal.github.io/illu.PNG" alt="">
