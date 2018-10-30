@@ -14,10 +14,10 @@ After modification of the tower application (refer to Figure 3 for a view of the
 
 <p align="center">
 Figure 1 <br/>
-<img src="https://sakshiagarwal.github.io/drone-thermal-camera.PNG" alt="">
+<img src="https://sakshiagarwal.github.io/drone-thermal-camera.PNG" alt=""> <br/>
 
 Figure 2 <br/>
-<img src="https://sakshiagarwal.github.io/testing.PNG" alt="">
+<img src="https://sakshiagarwal.github.io/testing.PNG" alt=""> <br/>
 
 Figure 3 <br/>
 <img src="https://sakshiagarwal.github.io/tower-app-developed.PNG" alt="">
