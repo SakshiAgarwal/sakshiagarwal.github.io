@@ -14,7 +14,7 @@ There are many aspects to this platform. The ones I worked on are listed below :
 
    This work has been submitted at [SDM](https://www.siam.org/Conferences/CM/Main/sdm19), awaiting results.
 
-2. Building a platform on the Azure Cloud supporting distributed operational analytics for a better user experience.
+2. Hosting the operational analytics on the Azure Cloud supporting distributed operational analytics for a better user experience.
 
 3. Conceptualised a decision support framework for a big data analytics platform so as to make design choices automated for constumers. My work was presented at IEEE World Congress On Services. ([video](https://drive.google.com/file/d/1o9gk6h8Xh_qp8dxmR_YTJvQoKYGDdHiz/view?usp=sharing)) ([paper](https://ieeexplore.ieee.org/document/8495792))
 
