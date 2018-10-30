@@ -12,7 +12,7 @@ There are many aspects to this platform. The ones I worked on are listed below :
 
 1. Building models for forecasting crimes like murder, rape etc on a day-to-day basis using Recurrent Marked Temporal Point Process (RMTPP). On a very specific note, we solve the problem of forecasting in cities with low crime data available with time. 
 
-   This work has been submitted at SDM, awaiting results.
+   This work has been submitted at [SDM](https://www.siam.org/Conferences/CM/Main/sdm19), awaiting results.
 
 2. Building a platform on the Azure Cloud supporting distributed operational analytics for a better user experience.
 
