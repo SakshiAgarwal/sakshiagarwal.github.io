@@ -13,12 +13,12 @@ After modification of the tower application (refer to Figure 3 for a view of the
 3. Allowing the user to manipulate the drone while it is hovering. 
 
 <p align="center">
-Figure 1
+Figure 1 <br/>
 <img src="https://sakshiagarwal.github.io/drone-thermal-camera.PNG" alt="">
 
-Figure 2
+Figure 2 <br/>
 <img src="https://sakshiagarwal.github.io/testing.PNG" alt="">
 
-Figure 3
+Figure 3 <br/>
 <img src="https://sakshiagarwal.github.io/tower-app-developed.PNG" alt="">
 </p>
