@@ -16,7 +16,7 @@ At IIT-KGP, during Diwali Festival
 Street Art, Durham 
 <img src="https://sakshiagarwal.github.io/durham.png" alt="">
 
-Flower Rangoli
+Rangoli
 <img src="https://sakshiagarwal.github.io/rangoli.jpg" alt="">
 
 American Tobacco Campus, Durham
