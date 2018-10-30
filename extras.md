@@ -5,18 +5,19 @@ menu: Extras
 weight: 3
 ---
 
-A brief collection of my travel stories and dance sessions!
+Apart from all the work, I love organising and managing events. I'm one of the committee members at [Grace Hopper Celebration India](https://ghcindia.anitab.org/) (GHCI). Before this at IIT Kharagpur, I've been a part of teams managing events in tech-fests or teams organising debates. I love to participate in group events be it group dances that our company organised or various treks and outdoor activities we planned. Apart from this, I used to paint and sketch while now help in rangolis at home!
 
-- Treks 
-- Managing & Organizing Events
-- photography
-- 
+A sneak peak! 
 
+<p align="center">
 At IIT-KGP, during Diwali Festival
 <img src="https://sakshiagarwal.github.io/illu.PNG" alt="">
 
 Street Art, Durham 
 <img src="https://sakshiagarwal.github.io/durham.png" alt="">
+
+Flower Rangoli
+<img src="https://sakshiagarwal.github.io/rangoli.jpg" alt="">
 
 American Tobacco Campus, Durham
 <img src="https://sakshiagarwal.github.io/durham2.png" alt="">
@@ -28,5 +29,7 @@ Munnar, India
 At a musuem
 <img src="https://sakshiagarwal.github.io/coverphoto.jpg" alt="">
 
-Random click
-<img src="https://sakshiagarwal.github.io/collage.jpg" alt="">
+Conduent Talent Festival - Dance Performance
+<img src="https://sakshiagarwal.github.io/conduent-dance.jpg" alt="">
+
+</p>
