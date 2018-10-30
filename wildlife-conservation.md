@@ -16,7 +16,6 @@ After modification of the tower application (refer to Figure 3 for a view of the
 Figure 1
 <img src="https://sakshiagarwal.github.io/drone-thermal-camera.PNG" alt="">
 
-
 Figure 2
 <img src="https://sakshiagarwal.github.io/testing.PNG" alt="">
 
