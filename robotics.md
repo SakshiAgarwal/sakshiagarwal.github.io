@@ -9,7 +9,7 @@ weight: 6
 I contributed to promoting and engaging students of campus in robotics. Along with a group of dedicated students as a team, we organised ourselves to achieve our goal. During my undergraduation :   
 
 1. I participated in several workshops and events in robotics in my first year. 
-2. Co-mentored two workshops for freshers in my second year of undergraduation - you could refer to the day-wise documentation of the students about what they learnt in their reports([Phase 1](https://sakshiagarwal.github.io/phase-1.pdf) and [Phase 2](https://sakshiagarwal.github.io/phase-2.pdf)).
+2. Co-mentored two workshops for freshers in my second year of undergraduation - you could refer to the day-wise documentation of the students about what they learnt in their reports ([Phase 1 Workshop](https://sakshiagarwal.github.io/phase-1.pdf) and [Phase 2 Workshop](https://sakshiagarwal.github.io/phase-2.pdf)).
 3. Conducted robotics events in the year of 2015 for our tech fest. To attract a number of participants, we also prototyped a bot in accordance with the event rules and created video tutorials.
 4. Worked on an autonomous quadrotor in the research group [Aerial Robotics Kharagpur](http://www.aerialroboticskgp.org/) in my third year of under-graduation.
 
