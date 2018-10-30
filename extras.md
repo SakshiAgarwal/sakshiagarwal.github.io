@@ -20,8 +20,8 @@ Flower Rangoli
 <img src="https://sakshiagarwal.github.io/rangoli.jpg" alt="">
 
 American Tobacco Campus, Durham
-<img src="https://sakshiagarwal.github.io/durham2.png" alt="">
-<img src="https://sakshiagarwal.github.io/durham3.png" alt="">
+<img src="https://sakshiagarwal.github.io/durham2.JPG" alt="">
+<img src="https://sakshiagarwal.github.io/durham3.JPG" alt="">
 
 Munnar, India
 <img src="https://sakshiagarwal.github.io/munnar.jpg" alt="">
