@@ -7,7 +7,7 @@ weight: 3
 
 In my spare time, I work as a committee member in a conference namely, [Grace Hopper Celebration India](https://ghcindia.anitab.org/) (GHCI).
 
-I love organising and managing events.hulala I'm one of the committee members of a conference, . Before this at IIT Kharagpur, I've been a part of teams managing events in tech-fests or teams organising debates. I love to participate in group events be it group dances that our company organised or various treks and outdoor activities we planned. Apart from this, I used to paint and sketch while now help in rangolis at home!
+During my undergraduation, I was an active member in the English Dramatics Club. Once in a while, I also enjoy dancing and trekking.
 
 A sneak peak! 
 
