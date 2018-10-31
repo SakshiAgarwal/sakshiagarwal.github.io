@@ -6,7 +6,6 @@ weight: 1
 <font size="+2">
 MOTIVATION 
 </font>
-
 <br>
 <br>
 
