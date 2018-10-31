@@ -5,7 +5,7 @@ menu: Other Interests
 weight: 3
 ---
 
-Apart from all the work, I love organising and managing events. I'm one of the committee members of a conference, [Grace Hopper Celebration India](https://ghcindia.anitab.org/) (GHCI). Before this at IIT Kharagpur, I've been a part of teams managing events in tech-fests or teams organising debates. I love to participate in group events be it group dances that our company organised or various treks and outdoor activities we planned. Apart from this, I used to paint and sketch while now help in rangolis at home!
+I love organising and managing events. I'm one of the committee members of a conference, [Grace Hopper Celebration India](https://ghcindia.anitab.org/) (GHCI). Before this at IIT Kharagpur, I've been a part of teams managing events in tech-fests or teams organising debates. I love to participate in group events be it group dances that our company organised or various treks and outdoor activities we planned. Apart from this, I used to paint and sketch while now help in rangolis at home!
 
 A sneak peak! 
 
