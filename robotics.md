@@ -6,7 +6,7 @@ parent: works.md
 weight: 6
 ---
 
-As an active member of the Robotics Community, I was involved in promoting and engaging students of campus in robotics. Along with a group of dedicated students as a team, we organised ourselves to achieve our goal. During my undergraduation :   
+As an active member of the Robotics Community, I was involved in promoting and engaging students of campus in robotics. Our team of dedicated students organised events and hands-on sessions.   
 
 1. I participated in several workshops and events in robotics in my first year. 
 2. Co-mentored two workshops for freshers in my second year of undergraduation - you could refer to the day-wise documentation of the students about what they learnt in their reports ([Phase 1 Workshop](https://sakshiagarwal.github.io/phase-1.pdf) and [Phase 2 Workshop](https://sakshiagarwal.github.io/phase-2.pdf)).
