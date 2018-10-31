@@ -10,7 +10,7 @@ As an active member of the [Robotics Community](https://2018.robotix.in/), I was
 
 1. As a fresher, I participated in several workshops and events. 
 2. I co-mentored two workshops for freshers in my second year. You could refer to the day-wise documentation of the students about what they learnt in their reports ([Phase 1 Workshop](https://sakshiagarwal.github.io/phase-1.pdf) and [Phase 2 Workshop](https://sakshiagarwal.github.io/phase-2.pdf)).
-3. We conducted robotics events in the year of 2015 for our tech fest. To attract a number of participants, we also prototyped a bot in accordance with the event rules and created video tutorials.
+3. We conducted robotics events and competitions for our tech fest in 2015. We prototyped bots and created video tutorials for the convinience of participants to increase the footfall.
 4. Worked on an autonomous quadrotor in the research group [Aerial Robotics Kharagpur](http://www.aerialroboticskgp.org/) in my third year of under-graduation.
 
 Some glimses of the robotics tech-fest of IIT-Kharagpur 2015!
