@@ -10,4 +10,4 @@ The recent spread of toxicity, hatred and abuse on social media, inspired us to 
 
 <img src="https://sakshiagarwal.github.io/subtle-hate-speeches.PNG" alt="">
 
-As a researcher on the text analytics team, I am exploring and implementing attention based deep learning models in the application of subtle hate speech detection. We are also focusing on feature engineering aggregating the title, previous comments and external information from online sources such as, wikepedia and urban dictionary. 
+As a researcher on the text analytics team, I am exploring and implementing attention based deep learning models in the application of subtle hate speech detection. We are also focusing on feature engineering aggregating the title, previous comments and external information from online sources such as, wikepedia and urban dictionary.
