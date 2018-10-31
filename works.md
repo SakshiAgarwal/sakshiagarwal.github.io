@@ -4,10 +4,10 @@ title: My Works
 weight: 1
 ---
 <font size="+2">
-````
 MOTIVATION 
-````
 </font>
+
+
 
 Artificial Intelligence (AI) is the intelligence demonstrated by machines, outside the human minds. Machine Learning (ML) is a way of achieving AI. As 'intelligent' machines become more and more integral in our daily lives, we’re witnessing a new revolution that's taking over the world. 
 
