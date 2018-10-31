@@ -9,7 +9,7 @@ MOTIVATION
 <br>
 
 <i> “ Most of human and animal learning is unsupervised learning. If intelligence was a cake, unsupervised learning would be the cake, supervised learning would be the icing on the cake, and reinforcement learning would be the cherry on the cake. We know how to make the icing and the cherry, but we don’t know how to make the cake. We need to solve the unsupervised learning problem before we can even think of getting to true AI. ” </i> 
-<p align="right" style="font-size:60%;"> - Sergey Brin and Larry Page  </p>
+<p align="right" style="font-size:100%;"> - Sergey Brin and Larry Page  </p>
 
 
 My first encounter to the frontiers of AI came about during my internship at <strong>Duke University</strong> while working on Sentiment Analysis. Returning with a conviction to explore the field, I enrolled in the requisite coursework at <strong>IIT Kharagpur</strong> to strengthen my basics. Also, I started working on a project on Named Entity Recognition on Biomedical Text and hence, began my journey.
