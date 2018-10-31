@@ -11,7 +11,7 @@ MOTIVATION
 </br>
 </br>
 
-Artificial Intelligence (AI) is the intelligence demonstrated by machines, outside the human minds. Machine Learning (ML) is a way of achieving AI. As 'intelligent' machines become more and more integral in our daily lives, we’re witnessing a new revolution that's taking over the world. 
+Artificial Intelligence (AI) is the intelligence demonstrated by machines, outside the human minds. Machine Learning is a way of achieving AI. As 'intelligent' machines become more and more integral in our daily lives, we’re witnessing a new revolution that's taking over the world. 
 
 My first encounter to the frontiers of AI came about during my internship at <strong>Duke University</strong> while working on Sentiment Analysis. Returning with a conviction to explore the field, I enrolled in the requisite coursework at <strong>IIT Kharagpur</strong> to strengthen my basics. Also, I started working on a project on Named Entity Recognition on Biomedical Text and hence, began my journey.
 
