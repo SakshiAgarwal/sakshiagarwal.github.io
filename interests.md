@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Extra Curricular
-menu: Extras
+title: Other Interests
+menu: Other Interests
 weight: 3
 ---
 
