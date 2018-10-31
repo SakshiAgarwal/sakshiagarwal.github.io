@@ -4,7 +4,7 @@ title: About Me
 weight: 0
 ---
 
-Hi!
+Hi
 
 I am a Budding Scientist at <strong> Conduent Labs</strong> (formerly Xerox Research Centre India). My research focuses on various aspects of machine leanring. In particular, I have worked in the domains of text analysis, time-series forecasting, deep-learning and distributed platforms. 
 
