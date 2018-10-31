@@ -10,4 +10,5 @@ I am a Budding Scientist at <strong> Conduent Labs</strong> (formerly, Xerox Res
 
 I received my B.Tech in Electrical Engineering (Instrumentation) with a minor in Computer Science Engineering from <strong> IIT Kharagpur</strong> in 2017. During that period, I was also a visiting researcher at <strong>Duke University</strong>, North Carolina in 2015 and an internee at <strong>TCS Innovation Labs</strong>, Gugaon, India in the year 2016. 
 
-You can reach me at <strong>sakshi0594@gmail.com</strong> or visit my [LinkedIn](https://www.linkedin.com/in/sakshi-agarwal-6a8b6186/) profile.
+<font size="-1">
+<i>You can reach me at <strong>sakshi0594@gmail.com</strong> or visit my [LinkedIn](https://www.linkedin.com/in/sakshi-agarwal-6a8b6186/) profile.</i> </font>
