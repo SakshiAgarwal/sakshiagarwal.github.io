@@ -18,4 +18,4 @@ I followed it up by interning at <strong>TCS Innovation Lab</strong> India, and 
 
 Equipped with the right armoury, I set my foot in a research lab at <strong>Conduent India</strong>. Here, I was engaged with problems in Big Data Analytics Platform Architecture, Time-series Forcasting and Hate-speech Detection.
 
-More than a year's experience in the industry has helped me in treading the crucial bridge between core research and its application. Hence, the immense opportunities provided by the AI revolution to impact people's lives has propelled me further to contribute m bit.
+More than a year's experience in the industry has helped me in treading the crucial bridge between core research and its application. Hence, the immense opportunities provided by the AI revolution to impact people's lives has propelled me further to contribute my bit.
