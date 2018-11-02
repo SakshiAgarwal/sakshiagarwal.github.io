@@ -20,7 +20,6 @@ Patents
 </font>
 
 <br>
-
 "Improving Subtle Hate Speech Classification", Invention Disclosure# 20180010 at Conduent Labs, based on research in [dectecting hate speech for online conversations](https://sakshiagarwal.github.io/hate-speech.html) project. Patent application under process.
 
 "Method and System for Forecasting in Sparse Data Streams via Dense Data Streams", Invention Disclosure# 20180007 at Conduent Labs, based on research in the [Police Business Intelligence](https://sakshiagarwal.github.io/pbi.html) project. Patent application under process.
