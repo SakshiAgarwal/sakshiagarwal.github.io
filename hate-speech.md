@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Odium Revelio!
-menu: Odium Revelio!
+menu: Detecting Hate Speech
 parent: works.md
 weight: 0
 ---
