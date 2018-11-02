@@ -13,6 +13,8 @@ Mohit Yadav, Sakshi Agarwal. Regularization and Learning an Ensemble of RNNs by 
 Crowdsourcing, Deep Learning, and Artificial Intelligence Agents WS-17-07.</i>
 
 Sakshi Agarwal, Krishnaprasad Narayanan, Manjira Sinha, Rohit Gupta, Sharanya Eswaran, Tridib Mukherjee. Decision Support Framework for Big Data Analytics. <i> 2018 IEEE World Congress on Services (SERVICES).</i>
+
+<br>
 <font size="+2">
 Patents
 </font>
