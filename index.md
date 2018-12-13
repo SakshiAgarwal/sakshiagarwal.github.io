@@ -8,7 +8,7 @@ Hi
 
 I am a Budding Scientist at <strong> Conduent Labs</strong> (formerly known as Xerox Research Centre India). My research focuses on various aspects of machine learning, particularly in the domains of text analysis, time-series forecasting, deep-learning and distributed platforms. 
 
-I received my  in Electrical Engineering (Instrumentation) with a minor in Computer Science Engineering from Indian Institute of Technology, Kharagpur in 2017. During that period, I was also a visiting researcher at Duke University and an intern at TCS Innovation Labs.....(here talk about some side things you love to do! (ie cook, paint, eat, photograph, dance etc))
+I received my  in Electrical Engineering (Instrumentation) with a minor in Computer Science Engineering from Indian Institute of Technology, Kharagpur in 2017. During that period, I was also a visiting researcher at Humans and Autonomy Lab, Duke University and an intern at TCS Innovation Labs, India.
 
 I received my bachelors in Electrical Engineering (Instrumentation) with a minor in Computer Science Engineering from <strong> Indian Institute of Technology, Kharagpur</strong> in 2017. During that period, I was also a visiting researcher at <strong>Duke University</strong> and an intern at <strong>TCS Innovation Labs</strong>. When I'm not working, I like to spend my time cooking, dancing and taking short trips outside the city!
 
