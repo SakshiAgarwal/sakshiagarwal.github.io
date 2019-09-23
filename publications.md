@@ -9,6 +9,8 @@ Publications
 </font>
 
 <br>
+Sandya Mannarswamy, Sakshi Agarwal. Odium Revelio! Detecting Subtle Hate Speech in Online Conversations . Workshop for Women in Machine Learning (WiML NeurIPS 2019)
+
 Mohit Yadav, Sakshi Agarwal. Regularization and Learning an Ensemble of RNNs by Decorrelating Representations. <strong> The AAAI-17 Workshop on Crowdsourcing, Deep Learning, and Artificial Intelligence Agents WS-17-07.</strong>
 
 Sakshi Agarwal, Krishnaprasad Narayanan, Manjira Sinha, Rohit Gupta, Sharanya Eswaran, Tridib Mukherjee. Decision Support Framework for Big Data Analytics. <strong>2018 IEEE World Congress on Services (SERVICES). </strong>
