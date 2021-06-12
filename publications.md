@@ -55,5 +55,5 @@ Patent application under process.
 Patent Legasis Ref No: P2138-IN at TCS Innovation Labs, \
 Patent application under process.
 
-#based on research in the [Police Business Intelligence](https://sakshiagarwal.github.io/pbi.html) project. 
+%based on research in the [Police Business Intelligence](https://sakshiagarwal.github.io/pbi.html) project. 
 #based on platform for crime analytics.
