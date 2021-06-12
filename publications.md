@@ -11,13 +11,13 @@ Publications
 <br>
 <i>2021</i>
 
-<strong>[Deep Bucket Elimination]()</strong> \
+<strong>[Deep Bucket Elimination](https://sakshiagarwal.github.io/DBE-camera_ready.pdf)</strong> \
 Yasaman Razeghi, Kalev Kask, Yadong Lu, Pierre Baldi, Sakshi Agarwal, Rina Dechter \
 International Joint Conference on Artificial Intelligence (IJCAI), 2021 
 
 <i>2019</i>
 
-<strong> [Odium Revelio! Detecting Subtle Hate Speech in Online Conversations]((https://sakshiagarwal.github.io/WIML-poster.pdf)) </strong> \
+<strong> [Odium Revelio! Detecting Subtle Hate Speech in Online Conversations](https://sakshiagarwal.github.io/WIML-poster.pdf) </strong> \
 Sandya Mannarswamy, Sakshi Agarwal \
 Workshop for Women in Machine Learning (WiML NeurIPS 2019)
 
