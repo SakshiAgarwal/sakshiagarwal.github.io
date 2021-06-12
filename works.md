@@ -1,5 +1,6 @@
 ---
 layout: page
+menu: false
 title: My Works
 weight: 1
 ---
