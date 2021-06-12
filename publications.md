@@ -29,8 +29,8 @@ IEEE World Congress on Services, 2018
   
 <i>2017</i>
 
-<strong> [Regularization and Learning an Ensemble of RNNs by Decorrelating Representations](https://www.semanticscholar.org/paper/Regularization-and-Learning-an-Ensemble-of-RNNs-by-Yadav-Agarwal/bffecec9f40daf92cc76167f22f8e98e378f74b1)</strong> \ 
-Mohit Yadav, Sakshi Agarwal \
+<strong> [Regularization and Learning an Ensemble of RNNs by Decorrelating Representations](https://www.semanticscholar.org/paper/Regularization-and-Learning-an-Ensemble-of-RNNs-by-Yadav-Agarwal/bffecec9f40daf92cc76167f22f8e98e378f74b1)</strong>  
+\ Mohit Yadav, Sakshi Agarwal \
 The AAAI-17 Workshop on Crowdsourcing, Deep Learning, and Artificial Intelligence Agents WS-17-07
 
 <br>
