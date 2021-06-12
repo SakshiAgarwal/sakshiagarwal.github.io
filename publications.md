@@ -17,7 +17,7 @@ International Joint Conference on Artificial Intelligence (IJCAI), 2021
 
 <i>2019</i>
 
-<strong> [Odium Revelio! Detecting Subtle Hate Speech in Online Conversations]() </strong> \
+<strong> [Odium Revelio! Detecting Subtle Hate Speech in Online Conversations]((https://sakshiagarwal.github.io/WIML-poster.pdf)) </strong> \
 Sandya Mannarswamy, Sakshi Agarwal \
 Workshop for Women in Machine Learning (WiML NeurIPS 2019)
 
