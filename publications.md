@@ -16,18 +16,27 @@ Yasaman Razeghi, Kalev Kask, Yadong Lu, Pierre Baldi, Sakshi Agarwal, Rina Decht
 International Joint Conference on Artificial Intelligence (IJCAI), 2021 
 
 <i>2019</i>
+
 <strong>Odium Revelio! Detecting Subtle Hate Speech in Online Conversations </strong> 
+
 Sandya Mannarswamy, Sakshi Agarwal
+
 Workshop for Women in Machine Learning (WiML NeurIPS 2019)
 
 <i>2018</i>
+
 <strong> Decision Support Framework for Big Data Analytics</strong>
+
 Sakshi Agarwal, Krishnaprasad Narayanan, Manjira Sinha, Rohit Gupta, Sharanya Eswaran, Tridib Mukherjee
+
 IEEE World Congress on Services, 2018 
   
 <i>2017</i>
+
 <strong> Regularization and Learning an Ensemble of RNNs by Decorrelating Representations</strong>
+
 Mohit Yadav, Sakshi Agarwal
+
 The AAAI-17 Workshop on Crowdsourcing, Deep Learning, and Artificial Intelligence Agents WS-17-07
 
 <br>
