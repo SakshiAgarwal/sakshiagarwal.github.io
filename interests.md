@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Other Interests
-menu: Other Interests
+menu: false
 weight: 3
 ---
-
+Other Interests
 In my spare time, I work as a committee member in a conference namely, [Grace Hopper Celebration India](https://ghcindia.anitab.org/) (GHCI).
 
 During my undergraduation, I was an active member in the English Dramatics Club. Once in a while, I also enjoy dancing and trekking.
