@@ -11,25 +11,25 @@ Publications
 <br>
 <i>2021</i>
 
-<strong>Deep Bucket Elimination</strong> \
+<strong>[Deep Bucket Elimination]()</strong> \
 Yasaman Razeghi, Kalev Kask, Yadong Lu, Pierre Baldi, Sakshi Agarwal, Rina Dechter \
 International Joint Conference on Artificial Intelligence (IJCAI), 2021 
 
 <i>2019</i>
 
-<strong>Odium Revelio! Detecting Subtle Hate Speech in Online Conversations </strong> \
+<strong> [Odium Revelio! Detecting Subtle Hate Speech in Online Conversations]() </strong> \
 Sandya Mannarswamy, Sakshi Agarwal \
 Workshop for Women in Machine Learning (WiML NeurIPS 2019)
 
 <i>2018</i>
 
-<strong> Decision Support Framework for Big Data Analytics</strong> \
+<strong> [Decision Support Framework for Big Data Analytics](https://ieeexplore.ieee.org/document/8495792) </strong> \
 Sakshi Agarwal, Krishnaprasad Narayanan, Manjira Sinha, Rohit Gupta, Sharanya Eswaran, Tridib Mukherjee \
 IEEE World Congress on Services, 2018 
   
 <i>2017</i>
 
-<strong> Regularization and Learning an Ensemble of RNNs by Decorrelating Representations</strong> \ 
+<strong> [Regularization and Learning an Ensemble of RNNs by Decorrelating Representations](https://www.semanticscholar.org/paper/Regularization-and-Learning-an-Ensemble-of-RNNs-by-Yadav-Agarwal/bffecec9f40daf92cc76167f22f8e98e378f74b1)</strong> \ 
 Mohit Yadav, Sakshi Agarwal \
 The AAAI-17 Workshop on Crowdsourcing, Deep Learning, and Artificial Intelligence Agents WS-17-07
 
