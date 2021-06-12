@@ -10,7 +10,8 @@ Publications
 
 <br>
 <i>2020</i>
-<strong>Deep Bucket Elimination<\strong>
+
+<\strong>Deep Bucket Elimination<strong>
 Yasaman Razeghi, Kalev Kask, Yadong Lu, Pierre Baldi, Sakshi Agarwal, Rina Dechter 
 International Joint Conference on Artificial Intelligence (IJCAI), 2021 
 
