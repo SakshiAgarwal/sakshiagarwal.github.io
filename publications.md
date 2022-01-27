@@ -9,6 +9,13 @@ Publications
 </font>
 
 <br>
+<i>2022</i>
+
+<strong>[NeuroBE: Escalating NN approximations to Bucket Elimination]()</strong> \
+Sakshi Agarwal, Kalev Kask, Alex Ihler, Rina Dechter \
+AAAI Workshop CLeaR, 2022 
+
+<br>
 <i>2021</i>
 
 <strong>[Deep Bucket Elimination]()</strong> \
