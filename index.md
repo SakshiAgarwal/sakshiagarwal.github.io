@@ -4,7 +4,7 @@ title: About Me
 weight: 0
 ---
 
-I am a third year PhD student in the Department of Computer Science at the <strong> [University of California, Irvine](https://www.ics.uci.edu/)</strong>. 
+Hi! I am a third year PhD student in the Department of Computer Science at the <strong> [University of California, Irvine](https://www.ics.uci.edu/)</strong>. 
 
 My research focuses on Inference in Probabilistic Graphical Models, advised by Prof. <strong> [Erik Sudderth](https://www.ics.uci.edu/~sudderth/)  </strong>. With the help of deep learning techniques, I am interested in developing inference models for images and texts.
 
