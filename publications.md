@@ -13,7 +13,7 @@ Publications
 
 <strong>[NeuroBE: Escalating Neural Network Approximations of Bucket Elimination]()</strong> \
 Sakshi Agarwal, Kalev Kask, Alexander Ihler, and Rina Dechter \
-[Abstract](https://www.ics.uci.edu/~dechter/publications/r272.html) | [PDF](https://www.ics.uci.edu/~dechter/publications/r272.pdf) | [Supplemental](https://www.ics.uci.edu/~dechter/publications/r272-supplemental.pdf) | [Poster](https://www.ics.uci.edu/~dechter/publications/r272-poster.pdf)
+[Abstract](https://www.ics.uci.edu/~dechter/publications/r272.html) | [PDF](https://www.ics.uci.edu/~dechter/publications/r272.pdf) | [Supplemental](https://www.ics.uci.edu/~dechter/publications/r272-supplemental.pdf) | [Poster](https://www.ics.uci.edu/~dechter/publications/r272-poster.pdf) \
 Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence (UAI 2022).
 
 <br>
