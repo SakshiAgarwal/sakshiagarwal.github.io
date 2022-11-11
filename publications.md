@@ -21,7 +21,7 @@ Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence (UA
 
 <strong>[NeuroBE: Escalating NN approximations to Bucket Elimination]()</strong> \
 Sakshi Agarwal, Kalev Kask, Alex Ihler, Rina Dechter \
-AAAI Workshop CLeaR, 2022 
+AAAI Workshop Combining Learning and Reasoning (CLeaR), 2022 
 
 <br>
 <i>2021</i>
