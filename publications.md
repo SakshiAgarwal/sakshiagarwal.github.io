@@ -5,7 +5,7 @@ weight: 1
 ---
 
 <font size="+2">
-Publications
+Publications - [Google Scholar](https://scholar.google.com/citations?hl=en&user=uG2w1coAAAAJ)
 </font>
 
 <br>
@@ -56,19 +56,18 @@ Patents
 <br>
 "Improving Subtle Hate Speech Classification", \
 Invention Disclosure# 20180010 at Conduent Labs, \
-Patent application under process.
 
 "Method and System for Forecasting in Sparse Data Streams via Dense Data Streams", \
 Invention Disclosure# 20180007 at Conduent Labs \
-Patent application under process.
+
 
 "Operational Analytics Engine for Police Business Intelligence Platform", \
 Invention Disclosure# 20170032 at Conduent Labs, \
-Patent application under process.
+
 
 "Regularization and Learning an ensemble of RNN by decorrelating representations", \
 Patent Legasis Ref No: P2138-IN at TCS Innovation Labs, \
-Patent application under process.
+
 
 <!---
 %based on research in the [Police Business Intelligence](https://sakshiagarwal.github.io/pbi.html) project. 
