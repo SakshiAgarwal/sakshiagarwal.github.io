@@ -9,6 +9,15 @@ Publications - [Google Scholar](https://scholar.google.com/citations?hl=en&user=
 </font>
 
 <br>
+<i>2023</i>
+
+<strong>[A Decoder Suffices for Query-Adaptive Variational Inference]()</strong> \
+Sakshi Agarwal, Gabriel Hope, Ali Younis, and Erik B. Sudderth \
+[Abstract](https://proceedings.mlr.press/v216/agarwal23a.html) | [PDF](https://proceedings.mlr.press/v216/agarwal23a/agarwal23a.pdf) | [Supplemental](https://proceedings.mlr.press/v216/agarwal23a/agarwal23a-supp.pdf) | [Poster](https://www.auai.org/uai2023/posters/747.pdf) | [Video](https://www.youtube.com/watch?v=O6iV9uOxRA4&feature=youtu.be&ab_channel=SakshiAgarwal)  \
+Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023).
+
+
+<br>
 <i>2022</i>
 
 <strong>[NeuroBE: Escalating Neural Network Approximations of Bucket Elimination]()</strong> \
