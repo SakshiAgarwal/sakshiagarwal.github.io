@@ -5,8 +5,8 @@ weight: 1
 ---
 
 <font size="+2">
-Publications - [Google Scholar](https://scholar.google.com/citations?hl=en&user=uG2w1coAAAAJ)
-</font>
+Publications - 
+</font> [Google Scholar](https://scholar.google.com/citations?hl=en&user=uG2w1coAAAAJ)
 
 <br>
 <i>2023</i>
