@@ -65,7 +65,7 @@ Patents
 
 <br>
 "Improving Subtle Hate Speech Classification", \
-Invention Disclosure# 20180010 at Conduent Labs, \
+Invention Disclosure# 20180010 at Conduent Labs, 
 
 "Method and System for Forecasting in Sparse Data Streams via Dense Data Streams", \
 Invention Disclosure# 20180007 at Conduent Labs \
