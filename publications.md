@@ -68,15 +68,15 @@ Patents
 Invention Disclosure# 20180010 at Conduent Labs, 
 
 "Method and System for Forecasting in Sparse Data Streams via Dense Data Streams", \
-Invention Disclosure# 20180007 at Conduent Labs \
+Invention Disclosure# 20180007 at Conduent Labs, 
 
 
 "Operational Analytics Engine for Police Business Intelligence Platform", \
-Invention Disclosure# 20170032 at Conduent Labs, \
+Invention Disclosure# 20170032 at Conduent Labs, 
 
 
 "Regularization and Learning an ensemble of RNN by decorrelating representations", \
-Patent Legasis Ref No: P2138-IN at TCS Innovation Labs, \
+Patent Legasis Ref No: P2138-IN at TCS Innovation Labs, 
 
 
 <!---
