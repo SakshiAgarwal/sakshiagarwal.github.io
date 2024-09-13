@@ -12,7 +12,7 @@ Before graduate school, I was a Budding Scientist at <strong>[Conduent Labs](htt
 
 When I'm not working, I like to spend my time cooking, dancing, playing tennis, learning about cultures and taking short trips outside the city!
 
-<i>You can reach me at <strong>sakshia1@uci.edu</strong> or visit my [LinkedIn](https://www.linkedin.com/in/sakshi-agarwal-6a8b6186) profile. A short description of my works is present in my [CV](pub-CV.pdf). </i> 
+<i>You can reach me at <strong>sakshia1@uci.edu</strong> or visit my [LinkedIn](https://www.linkedin.com/in/sakshi-agarwal-6a8b6186) profile. A short description of my works is present in my [CV](CV.pdf). </i> 
 
 
 <font size="4">
