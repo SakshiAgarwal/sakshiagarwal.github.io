@@ -10,6 +10,13 @@ Publications
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=uG2w1coAAAAJ)
 
 <br>
+<i>2024</i>i
+<strong> VIPaint: Image Inpainting with Pre-Trained Diffusion Models via Variational Inference
+Sakshi Agarwal, Gabriel Hope, and Erik B. Sudderth
+[PDF](https://arxiv.org/abs/2411.18929) \ 
+arXiv 2024.
+
+<br>
 <i>2023</i>
 
 <strong>[A Decoder Suffices for Query-Adaptive Variational Inference]()</strong> \
