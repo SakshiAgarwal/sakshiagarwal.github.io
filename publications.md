@@ -10,11 +10,13 @@ Publications
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=uG2w1coAAAAJ)
 
 <br>
-<i>2024</i>i
+<i>2024</i>
+
 <strong>[VIPaint: Image Inpainting with Pre-Trained Diffusion Models via Variational Inference]()</strong>strong \
 Sakshi Agarwal, Gabriel Hope, and Erik B. Sudderth \
 [PDF](https://arxiv.org/abs/2411.18929) \ 
 arXiv 2024.
+
 
 <br>
 <i>2023</i>
