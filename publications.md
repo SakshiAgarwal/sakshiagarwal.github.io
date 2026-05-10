@@ -14,8 +14,9 @@ Publications
 
 <strong>[VIPaint: Image Inpainting with Pre-Trained Diffusion Models via Variational Inference]()</strong>strong \
 Sakshi Agarwal, Gabriel Hope, and Erik B. Sudderth \
+[Project Page](https://jimin-heo.github.io/vipaint/)\ 
 [PDF](https://arxiv.org/abs/2411.18929) \ 
-arXiv 2024.
+The 29th International Conference on Artificial Intelligence and Statistics (AISTATS 2026).
 
 
 <br>
